@@ -77,3 +77,6 @@ The posterior probability of each pair of bases aligning can be obtained using
      in the data sequence(Phylogenetic footprinting). The alignment (```****.alignment.*```) file
      displays the most likely aligned blocks between the query and data sequences.<br>
 	 
+## Utilities  ##
+The src/ directory contains two R files for plotting alignment probabilities.<br>
+
